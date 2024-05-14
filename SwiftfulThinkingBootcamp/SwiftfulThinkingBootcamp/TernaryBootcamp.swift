@@ -18,13 +18,14 @@ struct TernaryBootcamp: View {
                 isStartingState.toggle()
             }
             
-            Text(isStartingState ? "STARTING STATE" : "ENDING STATE.")
+                Text(isStartingState ? "STARTING STATE" : "ENDING STATE.")
             
             RoundedRectangle(cornerRadius: isStartingState ? 25 : 0)
                 .fill(isStartingState ? Color.red : Color.blue)
                 .frame(
                     width: isStartingState ? 200: 50,
                     height: isStartingState ? 400 : 50)
+                .animation(.spring(response: 1.0, dampingFraction: 0.2, blendDuration: 1.0), value: isStartingState)
             
             Spacer()
             
