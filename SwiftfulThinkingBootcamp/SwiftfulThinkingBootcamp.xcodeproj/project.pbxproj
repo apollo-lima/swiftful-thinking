@@ -33,6 +33,7 @@
 		7E8737202BF14672002CEE93 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E87371F2BF14672002CEE93 /* SafeAreaBootcamp.swift */; };
 		7E94E8752C051ABA009BE6CE /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E94E8742C051ABA009BE6CE /* AlertBootcamp.swift */; };
 		7E9889482BF11FE500CF7CAA /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9889472BF11FE500CF7CAA /* GridBootcamp.swift */; };
+		7EA3A75F2C090D1000DB1367 /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA3A75E2C090D1000DB1367 /* ColorPickerBootcamp.swift */; };
 		7EA6FA0F2C070C7400F91E94 /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA6FA0E2C070C7400F91E94 /* TextFieldBootcamp.swift */; };
 		7EA6FA112C07B17600F91E94 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA6FA102C07B17600F91E94 /* TextEditorBootcamp.swift */; };
 		7EA6FA132C07B78300F91E94 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA6FA122C07B78300F91E94 /* ToggleBootcamp.swift */; };
@@ -78,6 +79,7 @@
 		7E87371F2BF14672002CEE93 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		7E94E8742C051ABA009BE6CE /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		7E9889472BF11FE500CF7CAA /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		7EA3A75E2C090D1000DB1367 /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		7EA6FA0E2C070C7400F91E94 /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 		7EA6FA102C07B17600F91E94 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		7EA6FA122C07B78300F91E94 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 				7EA6FA0E2C070C7400F91E94 /* TextFieldBootcamp.swift */,
 				7EA6FA102C07B17600F91E94 /* TextEditorBootcamp.swift */,
 				7EA6FA122C07B78300F91E94 /* ToggleBootcamp.swift */,
+				7EA3A75E2C090D1000DB1367 /* ColorPickerBootcamp.swift */,
 				7E7359E72BEDFE480071620B /* Assets.xcassets */,
 				7E7359E92BEDFE480071620B /* Preview Content */,
 			);
@@ -266,6 +269,7 @@
 				7E94E8752C051ABA009BE6CE /* AlertBootcamp.swift in Sources */,
 				7E7359E62BEDFE480071620B /* ContentView.swift in Sources */,
 				7E7359F22BEDFE760071620B /* TextBootcamp.swift in Sources */,
+				7EA3A75F2C090D1000DB1367 /* ColorPickerBootcamp.swift in Sources */,
 				7EBF19DD2BF3F881009A82BE /* AnimationTimingBootcamp.swift in Sources */,
 				7E9889482BF11FE500CF7CAA /* GridBootcamp.swift in Sources */,
 				7E56922B2BEFA8A40037A9F3 /* StacksBootcamp.swift in Sources */,
